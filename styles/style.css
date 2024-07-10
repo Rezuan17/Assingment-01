@@ -33,9 +33,47 @@ nav li a{
 }
 
 .btn-primary{
-    font-weight: 400;  
+    font-weight: 600;  
     color: #0D1321;
     padding: 17px 45px;
     border-radius: 5px;
 }
+
+.paragraph{
+    text-align: center;
+}
+
+/* banner styles */
+
+ /* margin-left: 247px;
+    margin-top: 131px; */
+.banner{
+    
+    /* padding: 290px 124px;*/
+    
+    margin-left:247px ;
+    margin-top: 131px;
+    background-image: url(/assets/Hero-bg.png);
+}
+.banner-content{
+    
+    /* margin-top: 15px; */
+    margin-bottom: 10px;
+    max-width: 1040px;
+    text-align: center;
+    
+    justify-content:top;
+    
+}
+
+.banner-profile-pic{
+    
+    width: 240.28px;
+    height: 240px;
+    padding: 20px;
+    
+}
+
+
+
 
